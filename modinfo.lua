@@ -1,4 +1,4 @@
-name = "none"
+name = "登仙学习版"
 description = ""
 author = "佚名"
 version = "9.14"
