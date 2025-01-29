@@ -1,7 +1,7 @@
-name = "登仙学习版"
+name = "登仙初心版"
 description = ""
-author = "佚名"
-version = "9.14"
+author = "初心使者"
+version = "9.14.1"
 forumthread = ""
 dst_compatible = true
 
@@ -11,7 +11,7 @@ priority = -10
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
 
-server_filter_tags = {"登仙学习版"}
+server_filter_tags = {"登仙初心版"}
 
 local keys = {
     {"BACKSPACE", 8},
